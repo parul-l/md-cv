@@ -10,8 +10,9 @@ Data Scientist
 <div id="webaddress">
 <a href="mailto:parul.laul@gmail.com">parul.laul@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="https://parul-l.github.io/">parul-l</a>
+<i class="fa fa-github"></i> <a href="https://github.com/parul-l/">parul-l</a>
 |
+<i class="fa fa-home"></i> <a href="https://github.com/parul-l/">parul-l.github.io</a>
 </div>
 
 
@@ -86,7 +87,7 @@ Studied mathematical systems related to general relativity with an emphasis on t
 __University of North Carolina, Chapel Hill__ PhD, Mathematics
 
 `2005 - 2006`
-__University of Toronto__ MSc Mathematics
+__University of Toronto__ MSc, Mathematics
 
 `2001 - 2005`
 __University of Toronto__ BSc, Mathematics and Biochemistry 
