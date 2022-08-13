@@ -4,7 +4,8 @@
 jekyll build
 
 # path on your system to your github pages repo checkout
-SITE_DIR=../blmoore.github.io/cv/
+# SITE_DIR=../blmoore.github.io/cv/
+SITE_DIR=./parul-l.github.io/resume/
 
 # remove old files
 rm -R ${SITE_DIR}*
