@@ -12,7 +12,7 @@ Data Scientist
 |
 <i class="fa fa-github"></i> <a href="https://github.com/parul-l/">parul-l</a>
 |
-<i class="fa fa-home"></i> <a href="https://github.com/parul-l/">parul-l.github.io</a>
+<i class="fa fa-home"></i> <a href="http://parul-l.github.io/">parul-l.github.io</a>
 </div>
 
 
