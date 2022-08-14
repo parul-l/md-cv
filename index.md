@@ -83,13 +83,10 @@ Studied mathematical systems related to general relativity with an emphasis on t
 
 ## Education
 
-`2006 - 2011`
 __University of North Carolina, Chapel Hill__ PhD, Mathematics
 
-`2005 - 2006`
 __University of Toronto__ MSc, Mathematics
 
-`2001 - 2005`
 __University of Toronto__ BSc, Mathematics and Biochemistry 
 
 
