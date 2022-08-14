@@ -44,7 +44,7 @@ Created ETL jobs that gathered data from third party services and ingested them 
 
 <br>
 `August 2013 - August 2017` 
-__Bronx Community College, City University of New York__, Assistant Professor, Mathematics.
+__Bronx Community College, City University of New York__, Assistant Professor, Mathematics
 
 Published research in quantifying energy loss by light near a rotating black hole.
 
@@ -55,7 +55,7 @@ Supervised undergraduate research projects on general relativity and digital sig
 
 <br>
 `August 2012 - August 2013` 
-__Drexel University__, Visiting Assistant Professor.
+__Drexel University__, Visiting Assistant Professor
 
 Taught advanced undergraduate level courses, including Partial Differential Equations and Linear Algebra.
 
@@ -64,7 +64,7 @@ Collaborated on projects that characterized light paths near rotating black hole
 
 <br>
 `September 2011 - June 2012` 
-__University of Cambridge__, Postdoctoral Fellow.
+__University of Cambridge__, Postdoctoral Fellow
 
 Published results on light wave dispersion outside of non-rotating black holes.
 
