@@ -17,7 +17,7 @@ cp index.md ${SITE_DIR}/resume.md
 
 ## replace text to appropriate paths
 # s => substitute, g => globally, 
-sed -i '' 's|media/|/assets/css/resume/media|g' ${SITE_DIR}/_includes/cv.html
+sed -i '' 's|media/|/assets/css/resume/media/|g' ${SITE_DIR}/_includes/cv.html
 
-# replace cv with cd in layout
+# replace 'cv' with 'resume' in resume.md
 sed -i '' 's|layout: cv|layout: resume|' ${SITE_DIR}/resume.md
