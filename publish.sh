@@ -7,13 +7,17 @@ jekyll build
 SITE_DIR=../parul-l.github.io
 
 
-# # remove old resume files
-rm -R ${SITE_DIR}/resume/*
-
-# # re-add new
-cp _site/index.html ${SITE_DIR}/resume/.
-cp -R _site/media ${SITE_DIR}/resume/.
+# add relevant files
+# cp _site/index.html ${SITE_DIR}/resume/.
+cp -R _site/media ${SITE_DIR}/assets/css/resume/.
 
 ## copy layout and resume.md
-cp _layouts/cv.html ${SITE_DIR}/_layouts/cv_html
+cp _layouts/cv.html ${SITE_DIR}/_includes/cv.html
 cp index.md ${SITE_DIR}/resume.md
+
+## replace text to appropriate paths
+# s => substitute, g => globally, 
+sed -i '' 's|media/|/assets/css/resume/media|g' ${SITE_DIR}/_includes/cv.html
+
+# replace cv with cd in layout
+sed -i '' 's|layout: cv|layout: resume|' ${SITE_DIR}/resume.md
