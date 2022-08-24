@@ -38,7 +38,6 @@ Developed an unsupervised learning model that groups US hospitals based on size,
 
 Built statistical models predicting patients in need of specialized attention to enhance physician practices and patient care.
 
-<!-- Designed and implemented an algorithm to integrate data sources with no common keys using geocodes. -->
 
 
 <br>
